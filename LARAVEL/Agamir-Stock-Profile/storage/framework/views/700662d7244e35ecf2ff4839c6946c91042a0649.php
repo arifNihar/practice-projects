@@ -1,0 +1,1 @@
+<?php /**PATH /home/codeman/Downloads/Entertech-Stock-Profile/resources/views/pages/admin_panel/site_setup/app_master_data.blade.php ENDPATH**/ ?>

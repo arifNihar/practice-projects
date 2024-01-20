@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    
+    .container{
+        width: 1400px;
+        background-color: rgb(67, 14, 67);
+        .logo{
+            .text{
+                font-size: 14px;
+            }
+            .dot{
+                font-size: 16px;
+            }
+        }
+        .links{
+            span{
+                font-size: 14px;
+            }
+        }
+    }
+}

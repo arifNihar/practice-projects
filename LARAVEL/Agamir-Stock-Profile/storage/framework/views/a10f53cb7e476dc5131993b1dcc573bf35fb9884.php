@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Entertech-Stock-Profile\resources\views/pages/admin_panel/site_setup/app_master_data.blade.php ENDPATH**/ ?>
